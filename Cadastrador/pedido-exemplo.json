@@ -1,0 +1,24 @@
+﻿{
+  "ValorTotal": 0,
+  "Cliente": {
+    "Id": "1",
+    "Nome": "Raphael Soares Moreira",
+    "Cpf": "12222112122",
+    "Email": "faelsoaresjf@gmail.com.br"
+  },
+  "Pagamento": {
+    "NumeroDoCartao": "1112223334445556",
+    "Validade": "19/08/2024",
+    "CVV": "232"
+  },
+  "Produtos": [
+    {
+      "Id": "1",
+      "Quantidade": 4
+    },
+    {
+      "Id": "2",
+      "Quantidade": 2
+    }
+  ]
+}
